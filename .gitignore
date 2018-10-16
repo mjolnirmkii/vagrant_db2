@@ -1,0 +1,12 @@
+.vagrant
+
+# OS X noise
+.DS_Store
+
+installerJDK7/**/*.rpm
+
+jboss-*.zip
+*.rpm
+*.lic
+*.bin
+*Hotfix_Package*.zip
